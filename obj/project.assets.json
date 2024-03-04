@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\The user\\Desktop\\לימודים\\Enbedded\\GitProject\\GitProject.csproj",
+      "projectUniqueName": "C:\\Users\\The user\\Desktop\\לימודים\\Enbedded\\GitProject2\\Practice\\GitProject.csproj",
       "projectName": "GitProject",
-      "projectPath": "C:\\Users\\The user\\Desktop\\לימודים\\Enbedded\\GitProject\\GitProject.csproj",
+      "projectPath": "C:\\Users\\The user\\Desktop\\לימודים\\Enbedded\\GitProject2\\Practice\\GitProject.csproj",
       "packagesPath": "C:\\Users\\The user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\The user\\Desktop\\לימודים\\Enbedded\\GitProject\\obj\\",
+      "outputPath": "C:\\Users\\The user\\Desktop\\לימודים\\Enbedded\\GitProject2\\Practice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
