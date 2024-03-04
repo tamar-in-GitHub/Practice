@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "YZf+LLgkiaWWQ21GdH31V1NtQIAk/AiAf58DMY0aaHeYfeuC1bqTsVP+6fF3h5FeSODex6p1Zby32hNjIl3apQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\The user\\Desktop\\לימודים\\Enbedded\\GitProject2\\Practice\\GitProject.csproj",
+=======
+  "dgSpecHash": "0r4gOmV/SZek90CvxUTmUbVbYsfBqeXPN0jIYFj3PhwjP/WJpLstng59raLwAKViN9dV/L4yIOgFahyvq19XFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Documents\\פרקטיקום\\Git\\NewCode\\Practice\\GitProject.csproj",
+>>>>>>> 343eb05c1aa76d7e937f76f5103948f3fa3d0a89
   "expectedPackageFiles": [],
   "logs": []
 }

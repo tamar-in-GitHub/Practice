@@ -5,6 +5,11 @@ build_property.UsingMicrosoftNETSdkWeb =
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GitProject
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\The user\Desktop\לימודים\Enbedded\GitProject2\Practice\
+=======
+build_property.ProjectDir = C:\Users\User\Documents\פרקטיקום\Git\NewCode\Practice\
+>>>>>>> 343eb05c1aa76d7e937f76f5103948f3fa3d0a89
