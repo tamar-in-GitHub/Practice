@@ -4,10 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, tamar GitProject5!");
-
-            Console.WriteLine("Hello Racheli & Ahuvi! ");
-
+<<<<<<< HEAD
+            Console.WriteLine("Hello, tamar 6!");
+=======
+            Console.WriteLine("Hello Racheli this is your branch!! ");
+>>>>>>> 343eb05c1aa76d7e937f76f5103948f3fa3d0a89
         }
     }
 }
